@@ -1,0 +1,77 @@
+#imgheightset {
+    height: 433px;
+}
+
+.anchorProp {
+    text-decoration: none;
+}
+
+.anchorProp:hover {
+    text-decoration: none;
+}
+
+.border-w {
+    width: 33%;
+    position: relative;
+    top: 18px;
+}
+
+.bg-transparent-gray {
+    background-color: rgba(136, 136, 177, 0.23);
+}
+
+#contact {
+    min-height: 480px;
+}
+
+.mr-1 {
+    margin-right: 1rem;
+}
+
+#ques {
+    min-height: 433px;
+}
+
+.mr-1 {
+    margin-right: 1rem;
+}
+
+.anchorthread {
+    text-decoration: none;
+}
+
+.anchorthread:hover {
+    text-decoration: underline;
+}
+
+#ques {
+    min-height: 433px;
+}
+
+.w-70 {
+    width: 70% !important;
+}
+
+.w-30 {
+    width: 30% !important;
+}
+
+.mh-90vh {
+    min-height: 90vh;
+}
+
+.anchorcontact {
+    text-decoration: none;
+}
+
+.anchorcontact:hover {
+    text-decoration: none;
+}
+
+#maincontainer {
+    min-height: 88vh;
+}
+
+.fs-17{
+    font-size: 17px;
+}
