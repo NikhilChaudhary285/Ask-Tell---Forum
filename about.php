@@ -31,7 +31,7 @@
             </div>
             <p><span class="fs-1 fw-semibold text-dark-emphasis">Ask&Tell</span> has been founded recently and is an
                 online discussion board where people can ask questions, share their experiences, and discuss topics of
-                mutual interest. iDiscuss is an excellent way to create social connections and a sense of community.</p>
+                mutual interest. Ask&Tell is an excellent way to create social connections and a sense of community.</p>
             <p>Its motive to provide a platform where people can discuss about knowledgable topics and help each other
                 to fix issues of any topic. It can also help you to cultivate an interest group about a particular
                 subject.</p>
